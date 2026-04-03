@@ -448,9 +448,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Umar Faruk Shehu**
 - GitHub: [@Ushehu](https://github.com/Ushehu)
-- Email: ushehu132@gmail.com
-- LinkedIn: [Umar Faruk Shehu](https://linkedin.com/in/umar-faruk-shehu)
-
 ## 🙏 Acknowledgments
 
 - [Appwrite](https://appwrite.io/) - For excellent backend services
@@ -464,7 +461,6 @@ If you have any questions or need help:
 
 1. Check the [Issues](https://github.com/Ushehu/realestate-app/issues) page
 2. Create a new issue with detailed information
-3. Reach out via email: ushehu132@gmail.com
 
 ## 🗺️ Roadmap
 
